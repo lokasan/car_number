@@ -1,0 +1,12 @@
+*.ini
+*.xlsx
+requirements.txt
+Tesseract-OCR
+haar_cascades
+gzip
+venv
+*-ubyte
+*.h5
+dump.rdb
+*update_numbers.json
+script_log.txt
