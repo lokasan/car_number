@@ -76,6 +76,7 @@ def get_time_now() -> str:
 
 
 class ChatTypeFilter(BaseFilter):
+    """Check is chat or not"""
     def __init__(self, chat_type: Union[str, list]):
         self.chat_type = chat_type
 
